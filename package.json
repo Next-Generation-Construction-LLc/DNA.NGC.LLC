@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/premo08.atomico-l6sg9i1f",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nHtuQuHpF1u0rrs5dQwJ --open"
+  },
+  "dependencies": {}
+}
